@@ -30,9 +30,9 @@ Data used in the second part of the project
 1. Prioritizing Hypotheses  
     The file hypotheses_us.csv contains nine hypotheses on boosting an online store's revenue with Reach, Impact, Confidence, and Effort specified for each.  
     The task is to:  
-       - Apply the ICE framework to prioritize hypotheses. Sort them in descending order of priority.  
-       - Apply the RICE framework to prioritize hypotheses. Sort them in descending order of priority.  
-       - Show how the prioritization of hypotheses changes when you use RICE instead of ICE. Provide an explanation for the changes.  
+        - Apply the ICE framework to prioritize hypotheses. Sort them in descending order of priority.  
+        - Apply the RICE framework to prioritize hypotheses. Sort them in descending order of priority.  
+        - Show how the prioritization of hypotheses changes when you use RICE instead of ICE. Provide an explanation for the changes.  
 
 2. A/B Test Analysis  
 You carried out an A/B test and got the results described in the files orders_us.csv and visits_us.csv.  
